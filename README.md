@@ -26,7 +26,7 @@ This project involves analyzing data related to medicine products, including the
 
 
 
-##  Quick Start
+##  Tools and Languages used
 
 - Scraped the data with the help of Python BeautifulSoup librariy.
 - Used Pandas for the data framing part.
