@@ -34,6 +34,8 @@ This project involves analyzing data related to medicine products, including the
 - Insights were generated from the above analysis.
 - Excel is used for dashboard and data visualization.
 
+# Dashboard
+![1mg dashboard](https://github.com/ankitpal154/Capstone_project/assets/139064260/e9d479ef-7ca7-4924-a389-0008cc786d79)
 
 
 
