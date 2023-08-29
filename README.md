@@ -73,8 +73,13 @@ This project involves analyzing data related to medicine products, including the
 ![most greater 4 point review](https://github.com/ankitpal154/Capstone_project/assets/139064260/ff8a85f1-2a46-4351-808a-a820497eebaa)
 
 ![most used ingredients and avg price](https://github.com/ankitpal154/Capstone_project/assets/139064260/3b80bcaa-54e2-4dfd-9a7c-9fbdd909a33f)
+# Conclusion
 
 - Market capture of SBL Pvt Ltd is comparatively better than others.
+- Better Scope in the Dental Category Because Competition in that Category is comparitively low.
 - Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in a Tier 2 city.
  
 ![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
+# Challenges Faced
+- We Got banned multiple times from the site while scraping the data.
+- Cleaning of data was a
