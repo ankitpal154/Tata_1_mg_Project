@@ -81,5 +81,8 @@ This project involves analyzing data related to medicine products, including the
  
 ![Guestimate](https://github.com/ankitpal154/Capstone_project/assets/139064260/22524af8-bb53-48ef-940a-4455a0211aa0)
 # Challenges Faced
-- We Got banned multiple times from the site while scraping the data.
-- Cleaning of data was a
+- **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
+- **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
+- **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
+- **Duplicate Data Issue**: Encountered delays due to duplicate data in the scraping process.
+- **Learning Efficiency**: Gained insights into optimizing scraping methods for speed and accuracy.
